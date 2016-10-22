@@ -1,1 +1,1 @@
-Passive Infrared Sensor (motion detector) - transmitter part, RF module NRF24L01+, part of IoT work stream (Smart Home). 
+Passive Infrared Sensor (motion detector) - transmitter part, RF module NRF24L01+, part of IoT work stream (Smart Home). Currently works in pair with remove LED controller [RFReceiverLEDLight](https://github.com/aformusatii/RFReceiverLEDLight).
